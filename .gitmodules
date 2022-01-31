@@ -1,0 +1,12 @@
+[submodule "autoload/plugged/NERDTree"]
+	path = autoload/plugged/NERDTree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "autoload/plugged/auto-pairs"]
+	path = autoload/plugged/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs.git
+[submodule "autoload/plugged/vim-polyglot"]
+	path = autoload/plugged/vim-polyglot
+	url = https://github.com/sheerun/vim-polyglot.git
+[submodule "autoload/plugged/presence.nvim"]
+	path = autoload/plugged/presence.nvim
+	url = https://github.com/andweeb/presence.nvim.git
